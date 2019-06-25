@@ -149,10 +149,13 @@
         }
       }
       .address {
+        text-transform: capitalize;
+        font-size: 1.3rem;
         position: absolute;
         bottom: 20px;
         opacity: 1;
         transition: all 0.3s ease-in-out;
+        text-shadow: 2px 0px 3px rgba(150, 150, 150, 1);
       }
     }
 
