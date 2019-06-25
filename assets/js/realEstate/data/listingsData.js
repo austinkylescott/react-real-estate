@@ -25,7 +25,7 @@ var listingsData = [
   },
   {
     address: "173 York Bay Trail",
-    city: "West Henrietta",
+    city: "Rochester",
     state: "NY",
     bedrooms: 4,
     price: 307000,
